@@ -1,7 +1,7 @@
 {
-        "minimumVersion": "1.1.0",
-        "latestVersion": "1.1.0",
-        "message": "A new version of Don't Break It is ready! Please update to keep playing.",
+            "minimumVersion": "1.2.0",
+            "latestVersion": "1.2.0",
+            "message": "Big update! 60 levels, 6 worlds, smoother controls and crash fixes. Please update to keep playing.",
         "updateURL": "https://testflight.apple.com/join/RqyKjCRY"
 
 }
