@@ -1,7 +1,6 @@
 {
-                "minimumVersion": "1.2.1",
-                "latestVersion": "1.2.1",
-            "message": "Big update! 60 levels, 6 worlds, smoother controls and crash fixes. Please update to keep playing.",
-        "updateURL": "https://testflight.apple.com/join/RqyKjCRY"
-
+  "minimumVersion": "1.2.1",
+  "latestVersion": "1.2.1",
+  "message": "Big update! 60 levels, 6 worlds, smoother controls and crash fixes. Please update to keep playing.",
+  "updateURL": "https://apps.apple.com/app/id6808036761"
 }
